@@ -2,12 +2,12 @@
 
 From here: https://github.com/gen2brain/raylib-go?tab=Zlib-1-ov-file
 
-Install Go
+## Install Go
 ```bash
 sudo pacman -S go
 ```
 
-Create Folder
+## Create Folder
 ```bash
 mkdir project_folder
 ```
