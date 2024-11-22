@@ -4,7 +4,9 @@ From here: https://github.com/gen2brain/raylib-go?tab=Zlib-1-ov-file
 
 ## Install Go
 ```bash
-sudo pacman -S go
+sudo add-apt-repository ppa:longsleep/golang-backports
+sudo apt update
+sudo apt install golang-go
 ```
 
 ## Create Folder
