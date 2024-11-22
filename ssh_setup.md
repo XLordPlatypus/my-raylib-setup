@@ -1,19 +1,19 @@
 # SSH key setup
 
-Create .ssh
+## Create .ssh
 ```bash
 mkdir .ssh
 ```
 
-cd into it
+## cd into it
 ```bash
 cd .ssh
 ```
-Create key
+## Create key
 ```bash
 ssh-keygen -t ed25519 -C email@adress
 ```
-Add it to agent
+## Add it to agent
 ```bash
 eval "$(ssh-agent -s)"
 ```
