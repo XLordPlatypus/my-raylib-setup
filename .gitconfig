@@ -5,3 +5,4 @@ email = <E-Mail>
 	defaultBranch = main
 [core]
 	editor = nano
+	#editor = 'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
